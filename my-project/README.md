@@ -1,8 +1,29 @@
-# React + Vite
+Sure, here is a GitHub repo README for the provided React project:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Color Changer
 
-Currently, two official plugins are available:
+A simple React application that allows you to change the background color of the screen by clicking on color buttons.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+To run this application, you will need to have Node.js and npm installed on your system. Once you have Node.js and npm installed, you can install the application dependencies by running the following command in the project directory:
+
+```bash
+npm install
+```
+
+After the dependencies have been installed, you can start the application by running the following command:
+
+```bash
+npm start
+```
+
+This will open the application in your development browser.
+
+## Usage
+
+The application consists of a fullscreen container with a color palette at the bottom. Clicking on a color button will change the background color of the container to the selected color.
+
+## Contributing
+
+If you would like to contribute to this project, please feel free to open an issue or pull request.
